@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<link rel="stylesheet" th:href="@{/CSS/style.css}"/>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Registration Form</title>
+
+
+</head>
+<body>
+
+	<form action="#" method="post">
+		<label for="username">Username:</label> <input type="text"
+			id="username" name="username" required> <label for="password">Password:</label>
+		<input type="password" id="password" name="password" required>
+
+		<label for="gender">Gender:</label> <select id="gender" name="gender"
+			required>
+			<option value="male">Male</option>
+			<option value="female">Female</option>
+			<option value="other">Other</option>
+		</select> <label for="role">role:</label> <select id="role" name="role"
+			required>
+			<option value="admin">admin</option>
+			<option value="customer">Customer</option>
+		</select> <label for="email">Email ID:</label> <input type="email" id="email"
+			name="email" required> <label for="address">Address:</label>
+		<textarea name="address"></textarea>
+
+		<button type="submit">Submit</button>
+	</form>
+
+</body>
+</html>
