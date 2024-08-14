@@ -27,3 +27,11 @@ HTML/CSS/JavaScript (for frontend)
 # Song Page
 ![Screenshot (280)](https://github.com/user-attachments/assets/8549be82-1b7d-4af3-a1c1-fcfc040c4524)
 
+# Customer Page
+![Screenshot (282)](https://github.com/user-attachments/assets/510f67fd-57ae-485f-b2a5-9d26692dc77d)
+
+# Subscription Page
+![Screenshot (283)](https://github.com/user-attachments/assets/4df20633-86fd-4896-88d3-f870269fca03)
+
+# Razourpay Integration
+![Screenshot (285)](https://github.com/user-attachments/assets/3d09dfb7-c428-4286-9d78-372cd1a32c67)
