@@ -15,3 +15,15 @@ Hibernate
 MySQL
 Thymeleaf (for server-side templating)
 HTML/CSS/JavaScript (for frontend)
+# Home Page
+![Screenshot (269)](https://github.com/user-attachments/assets/f5220e11-c832-4c10-adfc-8b9cfa3f338a)
+
+# Login Page
+![Screenshot (279)](https://github.com/user-attachments/assets/5220fa39-ee08-4fe9-99a6-c1f99f8324fe)
+
+# Register Page
+![Screenshot (281)](https://github.com/user-attachments/assets/5234e91b-b0f8-4a6a-8918-d21b83d6e0a8)
+
+# Song Page
+![Screenshot (280)](https://github.com/user-attachments/assets/8549be82-1b7d-4af3-a1c1-fcfc040c4524)
+
