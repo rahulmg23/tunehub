@@ -33,5 +33,5 @@ HTML/CSS/JavaScript (for frontend)
 # Subscription Page
 ![Screenshot (283)](https://github.com/user-attachments/assets/4df20633-86fd-4896-88d3-f870269fca03)
 
-# Razourpay Integration
+# Razorpay Integration
 ![Screenshot (285)](https://github.com/user-attachments/assets/3d09dfb7-c428-4286-9d78-372cd1a32c67)
